@@ -28,7 +28,7 @@ df = pd.dataFrame({
     "Age": [age],
     "Gender" : [gender],
     "Education Level" : [education],
-    "Job Title" : [job title],
+    "Job Title" : [job_title],
     "Years of Expereince" : [year_of_exp]
 
 })
